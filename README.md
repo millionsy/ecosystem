@@ -1,4 +1,6 @@
-![forum-header-3](https://user-images.githubusercontent.com/8948187/113044799-5344c780-915b-11eb-80ca-8712a3a09d69.jpg)
+---
+# NOTE: This repository is deprecated. To submit your project info, please visit https://solana.com/ecosystem/submit-project.
+---
 
 # Solana Ecosystem
 
